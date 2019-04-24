@@ -1,0 +1,3 @@
+﻿Realisieren Sie eine Funktion int SearchMultiples (Random R, int[] X, int N), die in einem mit Zufallszahlen zwischen 1 und 6 befüllten Array X das erste Auftreten einer N-fach direkt hintereinander vorkommenden Zahl ermittelt:
+Als Ergebnis wird der Index der ersten N-Mal hintereinander auftretenden Zahl zurückgegeben (sonst −1);
+X muss zuvor selbst mit Zufallszahlen durch Nutzung der Zufallszahlengenerator-Instanz R befüllt werden.
